@@ -10,8 +10,6 @@
   * `Service ID`：這隻 API 的唯一識別碼（例如 `0A000010`）。
   * `Service Desc`：這隻 API 的功能描述（例如「即時回報彙總」）。
 
-也就是說，整份文件上下出現的所有變數和欄位，都是為「同一個 API」服務的。
-
 ## 2. Input Spec（輸入規格）與 Output Spec（輸出規格）
 
 文件會被劃分為 Input Spec 和 Output Spec 兩大區塊。
